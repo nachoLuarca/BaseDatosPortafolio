@@ -1,2 +1,3 @@
-Base de datos relacional Resataurant siglo xx
+Base de datos relacional Resataurant siglo xx.
+Proyecto de título.
 
